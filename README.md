@@ -98,6 +98,16 @@ Confirm the health status of your target groups.
 ![Health check](https://user-images.githubusercontent.com/102290896/211667227-53bce7ca-a94c-4d89-a082-886ea4b3f973.jpeg)
 
 
+# Test to see your servers are working 
+
+Copy the domain name on your Load balancer and load it in your browser. 
+
+![server-1](https://user-images.githubusercontent.com/102290896/211668417-00e27e47-389f-4d67-8f0e-c8713006dbf4.jpeg)
+
+
+![server-2](https://user-images.githubusercontent.com/102290896/211668704-0f302511-676d-4f05-9fee-d3e66b2a3db4.jpeg)
+
+
 
 
 
