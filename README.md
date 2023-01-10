@@ -26,6 +26,10 @@ create a bastion host assigning the same vpc and a public subnet
 # Access the bastion host via ssh through the terminal
 ![] (![bastion host via ssh](https://user-images.githubusercontent.com/102290896/211657760-19ad7040-eef4-41c8-8576-896f1beb40d9.png)
 
+# Connect server-1 and server-2 using the bastion host and configure the nginx server on both instances 
+![Installing Nginx server](https://user-images.githubusercontent.com/102290896/211659239-3a63deec-a31f-4e1d-8c88-4fee92454585.png)
+
+
 
 
 
