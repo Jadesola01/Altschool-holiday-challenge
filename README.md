@@ -39,6 +39,7 @@ install the php8.1 version using the command
 # Edit the Nginx configuration file 
 
 Edit the Nginx config file to accomodate the php files
+
 `$ sudo nano /etc/nginx/sites-available/default`
 
 ![Nginx config file](https://user-images.githubusercontent.com/102290896/211662081-4e2d72fd-bdd1-4e01-8776-03e393012316.png)
