@@ -60,6 +60,16 @@ Edit the Nginx config file to accomodate the php files
 
 ![Nginx config file](https://user-images.githubusercontent.com/102290896/211662081-4e2d72fd-bdd1-4e01-8776-03e393012316.png)
 
+# create an index.php file in your root directory 
+
+`$ cd /var/www/html/`
+
+`$ sudo nano index.php`
+
+![index php file  ](https://user-images.githubusercontent.com/102290896/211663780-68b6f715-b3d4-480b-b197-f31474870744.png)
+
+
+
 
 
 
