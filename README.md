@@ -68,6 +68,38 @@ Edit the Nginx config file to accomodate the php files
 
 ![index php file  ](https://user-images.githubusercontent.com/102290896/211663780-68b6f715-b3d4-480b-b197-f31474870744.png)
 
+# Restart your Nginx server 
+
+restart and check the status of your Nginx server to ensure it runs properly 
+
+`$ sudo systemctl restart nginx`
+
+`$ sudo systemctl status nginx`
+
+![Nginx status](https://user-images.githubusercontent.com/102290896/211664624-a664c0af-68b3-4d7f-9af8-395902927a5e.png)
+
+# Create Target Group 
+
+Navigate to the target group and create a target group to assign your instances and connect to your Loab Balancer 
+
+![Target Group](https://user-images.githubusercontent.com/102290896/211665502-aabaf3c7-cce5-4297-b8c3-6b086e6b27b5.jpeg)
+
+
+# create an Application load balancer 
+
+Create an application load balancer and edit the inbound security groups to allow HTTP/S traffic from annywhere. also add the target group to the listeners and routing section then create the load balancer 
+
+![Load balancer ](https://user-images.githubusercontent.com/102290896/211666541-adc8fef7-2f05-403a-b1ba-8c88006b95dc.jpeg)
+
+# Esure your Target groups are active 
+
+Confirm the health status of your target groups. 
+
+![Health check](https://user-images.githubusercontent.com/102290896/211667227-53bce7ca-a94c-4d89-a082-886ea4b3f973.jpeg)
+
+
+
+
 
 
 
