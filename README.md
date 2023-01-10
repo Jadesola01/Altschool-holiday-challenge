@@ -21,13 +21,19 @@ create a bastion host assigning the same vpc and a public subnet
 
 # Connect to the Bastion Host using SSH client on AWS 
  ![SSH connection](https://user-images.githubusercontent.com/102290896/211656035-e269244a-dc82-4af0-b764-d5193107786f.jpeg)
-)
+
 
 # Access the bastion host via ssh through the terminal
 ![bastion host via ssh](https://user-images.githubusercontent.com/102290896/211657760-19ad7040-eef4-41c8-8576-896f1beb40d9.png)
 
 # Connect server-1 and server-2 using the bastion host and configure the nginx server on both instances 
 ![Installing Nginx server](https://user-images.githubusercontent.com/102290896/211659239-3a63deec-a31f-4e1d-8c88-4fee92454585.png)
+
+# Install php8.1-fpm 
+install the php8.1 version using the command 
+$ sudo apt-get install php8.1-fpm 
+![php installation](https://user-images.githubusercontent.com/102290896/211660529-53ad42fa-7096-438c-b172-b810c049a2d6.png)
+
 
 
 
