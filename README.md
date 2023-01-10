@@ -31,7 +31,7 @@ create a bastion host assigning the same vpc and a public subnet
 
 # Install php8.1-fpm 
 install the php8.1 version using the command 
-$`sudo apt-get install php8.1-fpm `
+`sudo apt-get install php8.1-fpm `
 ![php installation](https://user-images.githubusercontent.com/102290896/211660529-53ad42fa-7096-438c-b172-b810c049a2d6.png)
 
 
