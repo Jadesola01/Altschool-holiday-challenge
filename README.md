@@ -10,4 +10,8 @@ setting up an Application Load Balancer on AWS
 # Create VPC 
 ![create a vpc on the vpc dashboard](![vpc dashboard](https://user-images.githubusercontent.com/102290896/211640476-4ca2c57e-1300-4d71-ad40-c456efd874d0.jpeg)
 
+# create Ec2 Instances 
+![create 2 Ec2 instances using the Ec2 dasboard and assign the vpc and Private subnets created](![Ec2 instance with private subnets](https://user-images.githubusercontent.com/102290896/211649698-71b9ec8a-e9c8-4afc-a7ea-da5dfe0a7d2e.jpeg)
+
+
 
